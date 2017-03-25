@@ -1,4 +1,4 @@
-package CTS.Demo;
+package CTS_Demo;
 
 public class LamdaPOC {
 	

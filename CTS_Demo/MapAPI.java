@@ -1,4 +1,4 @@
-package CTS.Demo;
+package CTS_Demo;
 
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.function.BiConsumer;

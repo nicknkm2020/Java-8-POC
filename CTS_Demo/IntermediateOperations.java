@@ -1,4 +1,4 @@
-package CTS.Demo;
+package CTS_Demo;
 
 import java.util.ArrayList;
 import java.util.List;
